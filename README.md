@@ -23,7 +23,9 @@ MeetnLog lets you:
 
 *(Replace the placeholder paths below with your actual screenshot file paths.)*
 
-<a href="https://ibb.co/HD31FKPJ"><img src="https://i.ibb.co/VW5rjLCK/IMG-7284-BD904-FA5-1.jpg" alt="IMG-7284-BD904-FA5-1" border="0" width="400" /></a>
+<a href="https://ibb.co/HD31FKPJ"><img src="https://i.ibb.co/VW5rjLCK/IMG-7284-BD904-FA5-1.jpg" alt="IMG-7284-BD904-FA5-1" border="0" width="250" /></a>
+<a href="https://ibb.co/HD31FKPJ"><img src="https://i.ibb.co/jvGQsLF1/IMG-7091.png" alt="IMG-7284-BD904-FA5-1" border="0" width="250" /></a>
+<a href="https://ibb.co/HD31FKPJ"><img src="https://i.ibb.co/s9LcVh3r/IMG-7092.png" alt="IMG-7284-BD904-FA5-1" border="0" width="250" /></a>
 ![History Section](https://i.ibb.co/jvGQsLF1/IMG-7091.png)
 ![Personal Information for Meeting Participant](https://i.ibb.co/s9LcVh3r/IMG-7092.png)
 
