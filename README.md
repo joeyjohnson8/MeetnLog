@@ -21,9 +21,9 @@ MeetnLog lets you:
 
 ## Screenshots
 
-<a href="https://ibb.co/HD31FKPJ"><img src="https://i.ibb.co/VW5rjLCK/IMG-7284-BD904-FA5-1.jpg" alt="IMG-7284-BD904-FA5-1" border="0" width="250" /></a>
-<a href="https://ibb.co/HD31FKPJ"><img src="https://i.ibb.co/jvGQsLF1/IMG-7091.png" alt="IMG-7284-BD904-FA5-1" border="0" width="250" /></a>
-<a href="https://ibb.co/HD31FKPJ"><img src="https://i.ibb.co/s9LcVh3r/IMG-7092.png" alt="IMG-7284-BD904-FA5-1" border="0" width="250" /></a>
+<img src="IMG-7284-BD904-FA5-1.jpg" alt="App Screenshot" width="500"/>
+<img src="IMG_7092.png" alt="App Screenshot" width="500"/>
+<img src="images/IMG_7091.png" alt="App Screenshot" width="500"/>
 
 ## Installation
 
