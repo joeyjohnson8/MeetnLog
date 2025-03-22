@@ -21,9 +21,7 @@ MeetnLog lets you:
 
 ## Screenshots
 
-<img src="Images/IMG-7284-BD904-FA5-1.jpg" alt="App Screenshot" width="250"/>
-<img src="Images/IMG_7092.PNG" alt="App Screenshot" width="250"/>
-<img src="Images/IMG_7091.PNG" alt="App Screenshot" width="250"/>
+<img src="Images/IMG-7284-BD904-FA5-1.jpg" alt="App Screenshot" width="250"/><img src="Images/IMG_7092.PNG" alt="App Screenshot" width="250"/><img src="Images/IMG_7091.PNG" alt="App Screenshot" width="250"/>
 
 ## Installation
 
