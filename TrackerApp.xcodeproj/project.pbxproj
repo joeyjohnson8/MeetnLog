@@ -35,14 +35,9 @@
 			path = TrackerApp;
 			sourceTree = "<group>";
 		};
-		164372DD2D517201005D0544 /* TrackerAppTests */ = {
+		16ADD2DE2D8F0860002AD0E6 /* Images */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = TrackerAppTests;
-			sourceTree = "<group>";
-		};
-		164372E72D517201005D0544 /* TrackerAppUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = TrackerAppUITests;
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -76,9 +71,8 @@
 			isa = PBXGroup;
 			children = (
 				164372CC2D5171FE005D0544 /* TrackerApp */,
-				164372DD2D517201005D0544 /* TrackerAppTests */,
-				164372E72D517201005D0544 /* TrackerAppUITests */,
 				164372CB2D5171FE005D0544 /* Products */,
+				16ADD2DE2D8F0860002AD0E6 /* Images */,
 			);
 			sourceTree = "<group>";
 		};
@@ -109,6 +103,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				164372CC2D5171FE005D0544 /* TrackerApp */,
+				16ADD2DE2D8F0860002AD0E6 /* Images */,
 			);
 			name = TrackerApp;
 			packageProductDependencies = (
@@ -130,9 +125,6 @@
 			dependencies = (
 				164372DC2D517201005D0544 /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				164372DD2D517201005D0544 /* TrackerAppTests */,
-			);
 			name = TrackerAppTests;
 			packageProductDependencies = (
 			);
@@ -152,9 +144,6 @@
 			);
 			dependencies = (
 				164372E62D517201005D0544 /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				164372E72D517201005D0544 /* TrackerAppUITests */,
 			);
 			name = TrackerAppUITests;
 			packageProductDependencies = (
