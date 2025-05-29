@@ -60,10 +60,6 @@ MeetnLog lets you:
 
 Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or improvements.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
-For questions or feedback, please contact [Your Name](mailto:your.email@example.com).
+For questions or feedback, please contact [Joey Johnson](mailto:joeyjohnson218@gmail.com).
